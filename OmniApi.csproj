@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9395EE1A-3991-4C88-BD98-5D690E510CDC}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OmniApi</RootNamespace>
+    <AssemblyName>OmniApi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\OmniApi.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\OmniApi.xml</DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BRBALLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRBALLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="BRBALProviders, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRBALProviders.dll</HintPath>
+    </Reference>
+    <Reference Include="BRBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRBase.dll</HintPath>
+    </Reference>
+    <Reference Include="BRCaching, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRCaching.dll</HintPath>
+    </Reference>
+    <Reference Include="BRConfiguration, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRConfiguration.dll</HintPath>
+    </Reference>
+    <Reference Include="BRControls">
+      <HintPath>..\..\..\..\..\..\BSB\BSBWebServiceV3\BRControls\bin\Debug\BRControls.dll</HintPath>
+    </Reference>
+    <Reference Include="BRCoreBALLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRCoreBALLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="BRCoreBALProviders, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRCoreBALProviders.dll</HintPath>
+    </Reference>
+    <Reference Include="BRCoreDALLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRCoreDALLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="BRCoreEntities, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRCoreEntities.dll</HintPath>
+    </Reference>
+    <Reference Include="BRDALLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRDALLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="BRDALUtilities, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRDALUtilities.dll</HintPath>
+    </Reference>
+    <Reference Include="BrDataEncryption, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BrDataEncryption.dll</HintPath>
+    </Reference>
+    <Reference Include="BREntities, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BREntities.dll</HintPath>
+    </Reference>
+    <Reference Include="BRNetSecurity, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRNetSecurity.dll</HintPath>
+    </Reference>
+    <Reference Include="BRPages">
+      <HintPath>..\..\..\..\BUILDS\CoreOmniAPI\bin\BRPages.dll</HintPath>
+    </Reference>
+    <Reference Include="BRResources, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\BRResources.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=3.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.IdentityModel.Logging">
+      <HintPath>..\packages\Microsoft.IdentityModel.Logging.1.1.4\lib\net45\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens">
+      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.5.1.4\lib\net45\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.JScript" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="MySQL.Data, Version=1.0.4.22018, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\MySQL.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Nii.JSON, Version=1.0.4542.23534, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Nii.JSON.dll</HintPath>
+    </Reference>
+    <Reference Include="SSecurity, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\SSecurity.dll</HintPath>
+    </Reference>
+    <Reference Include="Swashbuckle.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cd1bb07a5ac7c7bc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Swashbuckle.Core.5.6.0\lib\net40\Swashbuckle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IdentityModel.Tokens.Jwt">
+      <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.5.1.4\lib\net45\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.9\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\WebActivatorEx.2.0.6\lib\net40\WebActivatorEx.dll</HintPath>
+    </Reference>
+    <Reference Include="WebSecurity, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\WebSecurity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Global.asax" />
+    <EmbeddedResource Include="swash.css" />
+    <Content Include="logo.png" />
+    <Content Include="Resources\images\favicon.ico" />
+    <Content Include="Resources\images\logo.png" />
+    <EmbeddedResource Include="ui\images\favicon-32x32.png" />
+    <EmbeddedResource Include="ui\images\favicon.ico" />
+    <EmbeddedResource Include="ui\images\favicon-16x16.png" />
+    <EmbeddedResource Include="swash.js" />
+    <Content Include="ui\ext\logo.png" />
+    <Content Include="ui\images\brnet.gif" />
+    <Content Include="ui\images\brnet.png" />
+    <Content Include="ui\images\logo.png" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Data\CoreOmniApiBase.cs" />
+    <Compile Include="App_Start\SwaggerConfig.cs" />
+    <Compile Include="App_Data\WebApiConfig.cs" />
+    <Compile Include="Controllers\ProductsController.cs" />
+    <Compile Include="Controllers\AccountsController.cs" />
+    <Compile Include="Controllers\LoansController.cs" />
+    <Compile Include="Controllers\TokenController.cs" />
+    <Compile Include="Controllers\TransactionsController.cs" />
+    <Compile Include="CoreLibraries\HttpCall.cs" />
+    <Compile Include="CoreLibraries\JsonTextWriterB.cs" />
+    <Compile Include="CoreLibraries\OmniCore.cs" />
+    <Compile Include="CoreLibraries\OmniCore_Dump.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="Filters\AddChallengeOnUnauthorizedResult.cs" />
+    <Compile Include="Filters\AuthenticationFailureResult.cs" />
+    <Compile Include="Filters\ForSwash.cs" />
+    <Compile Include="Filters\HttpAuthenticationChallengeContextExtensions.cs" />
+    <Compile Include="Filters\JwtAuthenticationAttribute.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="JwtManager.cs" />
+    <Compile Include="Models\AccountBalanceResponse.cs" />
+    <Compile Include="Models\Cards\CardActivation.cs" />
+    <Compile Include="Models\Cards\CardCvv.cs" />
+    <Compile Include="Models\Cards\CardDetailsInquiry.cs" />
+    <Compile Include="Models\Cards\CardInquiry.cs" />
+    <Compile Include="Models\Cards\CardPinReset.cs" />
+    <Compile Include="Models\Cards\CardPinSet.cs" />
+    <Compile Include="Models\Cards\CardsRequestXml.cs" />
+    <Compile Include="Models\Cards\CardStatusChange.cs" />
+    <Compile Include="Models\Cards\CardStatusCode.cs" />
+    <Compile Include="Models\Cards\CardStatusInquiry.cs" />
+    <Compile Include="Models\Cards\FaultEnvelope.cs" />
+    <Compile Include="Models\Cards\GetCardsResponseXML.cs" />
+    <Compile Include="Models\Cards\PinResetCount.cs" />
+    <Compile Include="Models\Cards\ReplacementRequestXml.cs" />
+    <Compile Include="Models\Cards\ReplacementResponseXml.cs" />
+    <Compile Include="Models\Cards\ResponseDataXml.cs" />
+    <Compile Include="Models\Cards\SendPinViaSms.cs" />
+    <Compile Include="Models\Cards\SoapRequestData.cs" />
+    <Compile Include="Models\FCMBLoan\AccountStatus.cs" />
+    <Compile Include="Models\FCMBLoan\AccountStatusResponse.cs" />
+    <Compile Include="Models\FCMBLoan\AddLienRequest.cs" />
+    <Compile Include="Models\FCMBLoan\AddLienResponse.cs" />
+    <Compile Include="Models\FCMBLoan\AddLienResult.cs" />
+    <Compile Include="Models\FCMBLoan\BaseRetailAccountOpeningRequest.cs" />
+    <Compile Include="Models\FCMBLoan\BaseRetailAccountOpeningResponse.cs" />
+    <Compile Include="Models\FCMBLoan\DisbursementTransferRequest.cs" />
+    <Compile Include="Models\FCMBLoan\DisbursementTransferResponse.cs" />
+    <Compile Include="Models\FCMBLoan\LoanTransferSummaryResponse.cs" />
+    <Compile Include="Models\FCMBLoan\NameEnquiryResponse.cs" />
+    <Compile Include="Models\GroupDetailsResponse.cs" />
+    <Compile Include="Models\GroupDetails.cs" />
+    <Compile Include="Models\CollateralResponse.cs" />
+    <Compile Include="Models\CollateralRequest.cs" />
+    <Compile Include="Models\ClientOpeningResponse.cs" />
+    <Compile Include="Models\ClientOpening.cs" />
+    <Compile Include="Models\ClientDetailResponse.cs" />
+    <Compile Include="Models\DFCU_Request_Response.cs" />
+    <Compile Include="Models\InternalTransfer.cs" />
+    <Compile Include="Models\LoanLimitRequest .cs" />
+    <Compile Include="Models\LoanLimitResponse .cs" />
+    <Compile Include="Models\LoanRecoveryRetries.cs" />
+    <Compile Include="Models\AccountStatementResponse.cs" />
+    <Compile Include="Models\AccountsDetailResponse.cs" />
+    <Compile Include="Models\ClientDetails.cs" />
+    <Compile Include="Models\LoanApplicationRequest.cs" />
+    <Compile Include="Models\LoanApplicationResponse.cs" />
+    <Compile Include="Models\LoanBalanceRequest.cs" />
+    <Compile Include="Models\LoanBalanceResponse.cs" />
+    <Compile Include="Models\LoanPayment.cs" />
+    <Compile Include="Models\LoanPaymentResponse.cs" />
+    <Compile Include="Models\ProductsResponse.cs" />
+    <Compile Include="Models\Products.cs" />
+    <Compile Include="Models\GetStmt.cs" />
+    <Compile Include="Models\LoansQuery.cs" />
+    <Compile Include="Models\CustQuery.cs" />
+    <Compile Include="Models\AccountOpeningResponse.cs" />
+    <Compile Include="Models\AccountOpening.cs" />
+    <Compile Include="Models\Loans.cs" />
+    <Compile Include="Models\GetRequestParameter.cs" />
+    <Compile Include="Models\ResponseObject.cs" />
+    <Compile Include="Models\UserInfoData.cs" />
+    <Compile Include="Models\TransactionRequest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\CoreOmniAPI.pubxml" />
+    <None Include="Properties\PublishProfiles\OmniApi - Web Deploy.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>58487</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:19602/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Target Name="GatherAllFilesToPublish">
+    <Message Text="Gathering all files to publish..." Importance="high" />
+    <ItemGroup>
+      <!-- Include all content files (e.g., .aspx, .cshtml, .config, etc.) -->
+      <ResolvedFileToPublish Include="@(Content)" />
+      <!-- Include all compiled outputs (e.g., .dll, .exe) -->
+      <ResolvedFileToPublish Include="@(ResolvedCompileFiles)" />
+      <!-- Include other files needed for deployment -->
+      <ResolvedFileToPublish Include="@(ReferenceCopyLocalPaths)" />
+    </ItemGroup>
+  </Target>
+</Project>

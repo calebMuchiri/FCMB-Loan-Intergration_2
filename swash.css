@@ -1,0 +1,59 @@
+﻿
+body.swagger-section #header {
+    background-color: mediumblue;
+    background: url('http://localhost:64707/ui/images/brnet.png') no-repeat;
+    background-position-x: 250px;
+    
+}
+
+    body.swagger-section #header .swagger-ui-wrap #logo {
+        display: none;
+    }
+
+
+
+
+/*#logo {
+    display:none;
+}*/
+
+.logo__img {
+    background: url('http://localhost:64707/ui/images/brnet.png') no-repeat;
+}
+
+#input_baseUrl {
+    display: none;
+}
+
+/*.logo__title{
+    display:none;
+}*/
+#explore {
+    display: none;
+}
+
+#input_apiKey {
+    display: none;
+}
+
+#explore {
+    display: none;
+}
+
+.header__btn {
+    display: none;
+}
+
+/*#header {
+    background-color:aqua;
+}*/
+
+body {
+    background-color: aliceblue;
+    background-position-x: 250px;
+    height: 50px;
+}
+
+#validator {
+    display: none;
+}

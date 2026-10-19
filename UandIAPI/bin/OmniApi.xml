@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OmniApi</name>
+    </assembly>
+    <members>
+        <member name="T:CoreOmniApiBase">
+            <summary>
+            Summary description for Base
+            </summary>
+        </member>
+        <member name="M:OmniApi.Controllers.TokenController.Generate(WebApi.Jwt.Models.UserInfoData)">
+            <summary>
+            This gives you time bound access token to call the allowed APIs
+            </summary>
+            <param name="usrData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OmniApi.Controllers.TransactionsController.LoanRepayment(WebApi.Jwt.Models.TransactionRequest)">
+            <summary>
+            Use this API to initiate an internal transfer transaction
+            </summary>
+            <param name="myData"></param>
+             <param name = "LoanRepayment"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.DFCU_LogsController.LogDFCURequestsResponses(OmniApi.Models.DFCU_Request_Response)">
+            <summary>
+            This API will return all the products and their specific details.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.ProductsController.GetProductList(WebApi.Jwt.Models.Products)">
+            <summary>
+            This API will return all the products and their specific details.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.LoansController.LoanApplicationRequest(WebApi.Jwt.Models.LoanApplicationRequest)">
+            <summary>
+            Initiates a Loan Request to Customer and Money is disbursed to the Repaymetn Account
+            </summary>
+            <param name="loanApplicationRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.LoansController.GetLoanBalance(WebApi.Jwt.Models.LoanBalanceRequest)">
+            <summary>
+            Initiates a Loan Balance
+            </summary>
+            <param name="loanBalanceRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.LoansController.GetLoanLimit(WebApi.Jwt.Models.LoanLimitRequest)">
+            <summary>
+            Initiates a Loan Limit
+            </summary>
+            <param name="loanLimitRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="F:WebApi.Jwt.JwtManager.Secret">
+            <summary>
+            Use the below code to generate symmetric Secret Key
+                var hmac = new HMACSHA256();
+                var key = Convert.ToBase64String(hmac.Key);
+            </summary>
+        </member>
+        <member name="P:WebApi.Jwt.Models.AccountOpening.Salary">
+            public DateTime WorkingSince { get; set; } = default(DateTime);
+        </member>
+        <member name="T:WebApi.Jwt.Models.UserInfoDataModel">
+            <summary>
+            Token parameters 
+            </summary>
+        </member>
+        <member name="P:WebApi.Jwt.Models.UserInfoData.ConsumerKey">
+            <summary>
+            This is the consumer key provided to you by the vendor
+            </summary>
+        </member>
+        <member name="P:WebApi.Jwt.Models.UserInfoData.ConsumerSecret">
+            <summary>
+            This is the Consumer Secret provided to you by the vendor
+            </summary>
+        </member>
+    </members>
+</doc>

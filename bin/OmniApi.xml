@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OmniApi</name>
+    </assembly>
+    <members>
+        <member name="T:CoreOmniApiBase">
+            <summary>
+            Summary description for Base
+            </summary>
+        </member>
+        <member name="M:OmniApi.Controllers.TokenController.Generate(WebApi.Jwt.Models.UserInfoData)">
+            <summary>
+            This gives you time bound access token to call the allowed APIs
+            </summary>
+            <param name="usrData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OmniApi.Controllers.TransactionsController.LoanRepayment(WebApi.Jwt.Models.TransactionRequest)">
+            <summary>
+            Use this API to initiate a Loan Repayment
+            </summary>
+            <param name="myData"></param>
+             <param name = "LoanRepayment"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OmniApi.Controllers.TransactionsController.InternalTransfer(WebApi.Jwt.Models.Transactions)">
+            <summary>
+            Use this API to initiate an internal transfer transaction
+            </summary>
+            <param name="internalTransferRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OmniApi.Controllers.TransactionsController.UtilitiesMoneyTransfer(WebApi.Jwt.Models.Transactions)">
+            <summary>
+            Use this API to initiate an internal transfer transaction
+            </summary>
+            <param name="internalTransferRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OmniApi.Controllers.TransactionsController.MoneyTransfer(WebApi.Jwt.Models.MoneyTransfer)">
+            <summary>
+            Use this API to initiate an money transfer transaction
+            </summary>
+            <param name="moneyTransferRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OmniApi.Controllers.TransactionsController.TransactionReversal(WebApi.Jwt.Models.ReversalRequest)">
+            <summary>
+            Use this API to initiate an internal transfer reversal  transaction
+            </summary>
+            <param name="ReversalRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OmniApi.Controllers.TransactionsController.transactionCallback(WebApi.Jwt.Models.transactionCallback)">
+            <summary>
+            Use this API to initiate   transaction Callback
+            </summary>
+            <param name="ReversalRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="T:OmniApi.CoreLibraries.HttpCall">
+            <summary>
+            Reusable HTTP client wrapper for external API calls with built-in token generation and error handling.
+            Uses a static HttpClient instance to avoid socket exhaustion while providing comprehensive logging.
+            </summary>
+        </member>
+        <member name="M:OmniApi.CoreLibraries.HttpCall.PostDataAsync(System.String,System.String,System.String,System.String,System.String,System.Action{System.Net.Http.HttpRequestMessage})">
+            <summary>
+            Executes a POST request with x-token authentication and comprehensive logging.
+            </summary>
+            <param name="url">Target URL</param>
+            <param name="jsonBody">JSON request body</param>
+            <param name="clientId">Client ID for authentication</param>
+            <param name="password">Password for token generation</param>
+            <param name="subscriptionKey">Optional subscription key</param>
+            <param name="additionalHeaders">Optional additional headers</param>
+            <returns>Response content or error message</returns>
+        </member>
+        <member name="M:OmniApi.CoreLibraries.HttpCall.GetXTokenHeader(System.DateTime,System.String,System.String)">
+            <summary>
+            Generates x-token header using SHA512 hash of timestamp + clientID + password.
+            </summary>
+        </member>
+        <member name="M:OmniApi.CoreLibraries.HttpCall.SHA512(System.String)">
+            <summary>
+            Computes SHA512 hash of input string.
+            </summary>
+        </member>
+        <member name="M:OmniApi.CoreLibraries.HttpCall.MaskSensitiveData(System.String)">
+            <summary>
+            Masks sensitive data for logging (shows first 3 and last 3 characters).
+            </summary>
+        </member>
+        <member name="T:OmniApi.CoreLibraries.HttpCallResponse">
+            <summary>
+            Response object from HTTP calls containing success status, content, and error information.
+            </summary>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.ProductsController.GetProductList(WebApi.Jwt.Models.Products)">
+            <summary>
+            This API will return all the products and their specific details.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.CheckAccountStatus(OmniApi.Models.FCMBLoan.AccountStatus)">
+            <summary>
+            This API will list all client accounts.
+            </summary>
+            <param name="accountStatus"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.GetClientName(OmniApi.Models.FCMBLoan.AccountStatus)">
+            <summary>
+            This Api Will grt the Valid ClientName.
+            </summary>
+            <param name="accountStatus"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.RemoteBaseRetailAccountOpening(OmniApi.Models.FCMBLoan.BaseRetailAccountOpeningRequest)">
+            <summary>
+            This API will Create a Finacle Base Retail Account using the Third-Party API.
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.AddLien">
+            <summary>
+            This API will Add a Lien to an Account using the Third-Party API.
+            </summary>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.GetAccountDetails(WebApi.Jwt.Models.CustQuery)">
+            <summary>
+            This API will return the specific customer account  details.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.GetClientAccountDetails(WebApi.Jwt.Models.ClientAccQuery)">
+            <summary>
+            This API will List all client Accounts.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.GetClientByUniqueNumber(WebApi.Jwt.Models.ClientDetails)">
+            <summary>
+            This API will return customer details.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.GroupDetails(OmniApi.Models.GroupDetails)">
+            <summary>
+            This endpoint will return Group details.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.AccountOpening(WebApi.Jwt.Models.AccountOpening)">
+            <summary>
+            Use this API to open new  Account in BRNET.  
+            </summary>
+            <remarks>
+            supply the clientID and a new Account is added based on the specified product.
+            </remarks>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.ClientOpening(WebApi.Jwt.Models.ClientOpening)">
+            <summary>
+            Use this API to open new Client in BRNET.  
+            
+            
+            </summary>
+            <remarks>
+            Use this endpoint to open new Client in BRNET. 
+            Add clienttype to add diffrent types of clients  Coporate->C  Individual->I GroUP->G
+            </remarks>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.MiniStatement(WebApi.Jwt.Models.MinistatementQuery)">
+            <summary>
+            This API will return customer statement at a specified period.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.AccountsController.GetAccountBalance(WebApi.Jwt.Models.AcBalQuery)">
+            <summary>
+            This API will return all the Customer Account Balance.
+            </summary>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.LoansController.LoanDisbursementTransfer">
+            <summary>
+            This API will Disburse Loan in Bulk to Finnacle Accounts.
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.LoansController.LoanApplicationRequest(WebApi.Jwt.Models.LoanApplicationRequest)">
+            <summary>
+            Initiates a Loan Request to Customer and Money is disbursed to the Repayment Account
+            </summary>
+            <param name="loanApplicationRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.LoansController.GetLoanBalance(WebApi.Jwt.Models.LoanBalanceRequest)">
+            <summary>
+            Initiates a Loan Balance
+            </summary>
+            <param name="loanBalanceRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.LoansController.GetLoanLimit(WebApi.Jwt.Models.LoanLimitRequest)">
+            <summary>
+            Initiates a Loan Limit
+            </summary>
+            <param name="loanLimitRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreOmniApi.Controllers.LoansController.AddCollateral(OmniApi.Models.CollateralRequest)">
+            <summary>
+            Use this API to Add new  collateral in BRNET.  
+            </summary>
+            <remarks>
+            Below are codes for diffrent collateraltypeid ==>
+             ==>      07 FARM EQUIPMENT /  002 MOTORVEHICLES / 001 HOUSEHOLD  / 006 LIVESTOCK / 008 SHARES /003 LAND PROPERTIES / 004 BUSINESS ASSET
+            </remarks>
+            <param name="myData"></param>
+            <returns></returns>
+        </member>
+        <member name="F:WebApi.Jwt.JwtManager.Secret">
+            <summary>
+            Use the below code to generate symmetric Secret Key
+                var hmac = new HMACSHA256();
+                var key = Convert.ToBase64String(hmac.Key);
+            </summary>
+        </member>
+        <member name="P:WebApi.Jwt.Models.ClientOpening.Salary">
+            public DateTime WorkingSince { get; set; } = default(DateTime);
+        </member>
+        <member name="T:WebApi.Jwt.Models.UserInfoDataModel">
+            <summary>
+            Token parameters 
+            </summary>
+        </member>
+        <member name="P:WebApi.Jwt.Models.UserInfoData.ConsumerKey">
+            <summary>
+            This is the consumer key provided to you by the vendor
+            </summary>
+        </member>
+        <member name="P:WebApi.Jwt.Models.UserInfoData.ConsumerSecret">
+            <summary>
+            This is the Consumer Secret provided to you by the vendor
+            </summary>
+        </member>
+    </members>
+</doc>

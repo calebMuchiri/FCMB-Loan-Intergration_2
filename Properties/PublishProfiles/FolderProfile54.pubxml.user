@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\ZWMBAPI\CBTCARDSBUILD</_PublishTargetUrl>
+    <History>True|2025-09-13T12:36:26.0336719Z;True|2025-09-12T15:53:24.3959452+03:00;True|2025-09-12T15:09:17.2375531+03:00;True|2025-09-03T12:45:37.7068539+03:00;True|2025-08-29T17:18:11.0105130+03:00;True|2025-08-29T12:06:29.4921693+03:00;True|2025-08-28T16:27:57.5320953+03:00;True|2025-08-14T15:38:00.7429430+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

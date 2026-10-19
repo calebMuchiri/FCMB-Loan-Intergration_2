@@ -1,0 +1,440 @@
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\OmniApi.dll.config
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\OmniApi.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\OmniApi.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\OmniApi.pdb
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csc.exe
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csc.exe.config
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csc.rsp
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csi.exe
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csi.rsp
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.AppContext.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\vbc.exe
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\vbc.exe.config
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\vbc.rsp
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Newtonsoft.Json.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Swashbuckle.Core.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Net.Http.Formatting.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Http.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Http.WebHost.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\WebActivatorEx.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Helpers.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.WebPages.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Razor.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\stdole.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Newtonsoft.Json.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Net.Http.Formatting.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Http.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Http.WebHost.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Helpers.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.WebPages.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Razor.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.xml
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.csprojAssemblyReference.cache
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CoreCompileInputs.cache
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CopyComplete
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.dll
+D:\val\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.pdb
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\OmniApi.dll.config
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\OmniApi.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\OmniApi.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\OmniApi.pdb
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csc.exe
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csc.exe.config
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csc.rsp
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csi.exe
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\csi.rsp
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.AppContext.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\vbc.exe
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\vbc.exe.config
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\vbc.rsp
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Newtonsoft.Json.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Swashbuckle.Core.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Net.Http.Formatting.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Http.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Http.WebHost.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\WebActivatorEx.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\stdole.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\Newtonsoft.Json.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Net.Http.Formatting.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Http.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\bin\System.Web.Http.WebHost.xml
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.csprojAssemblyReference.cache
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CopyComplete
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.dll
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.pdb
+D:\u&i backup\BRNET_UandIAPI_V2\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CoreCompileInputs.cache
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\OmniApi.dll.config
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\OmniApi.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\OmniApi.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\OmniApi.pdb
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\csc.exe
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\csc.exe.config
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\csc.rsp
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\csi.exe
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\csi.rsp
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\System.AppContext.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\vbc.exe
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\vbc.exe.config
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\vbc.rsp
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Newtonsoft.Json.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Swashbuckle.Core.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Net.Http.Formatting.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.Http.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.Http.WebHost.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\WebActivatorEx.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.Helpers.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.WebPages.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.Razor.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\stdole.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\Newtonsoft.Json.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Net.Http.Formatting.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.Http.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.Http.WebHost.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.Helpers.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.WebPages.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.Razor.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.xml
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\obj\Release\OmniApi.csproj.AssemblyReference.cache
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CoreCompileInputs.cache
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\obj\Release\OmniApi.dll
+E:\BRNET_UandIAPI_V2_TWO\BRNET_UandIAPI\obj\Release\OmniApi.pdb
+E:\U&I_API\BRNET_UandIAPI\bin\OmniApi.dll.config
+E:\U&I_API\BRNET_UandIAPI\bin\OmniApi.xml
+E:\U&I_API\BRNET_UandIAPI\bin\OmniApi.dll
+E:\U&I_API\BRNET_UandIAPI\bin\OmniApi.pdb
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\csc.exe
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\csc.exe.config
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\csc.rsp
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\csi.exe
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\csi.rsp
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\System.AppContext.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\vbc.exe
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\vbc.exe.config
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\vbc.rsp
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe
+E:\U&I_API\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\U&I_API\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\U&I_API\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.dll
+E:\U&I_API\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.dll
+E:\U&I_API\BRNET_UandIAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\U&I_API\BRNET_UandIAPI\bin\Newtonsoft.Json.dll
+E:\U&I_API\BRNET_UandIAPI\bin\Swashbuckle.Core.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.Net.Http.Formatting.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.Helpers.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.Http.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.Http.WebHost.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.Razor.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.WebPages.dll
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.WebPages.Razor.dll
+E:\U&I_API\BRNET_UandIAPI\bin\WebActivatorEx.dll
+E:\U&I_API\BRNET_UandIAPI\bin\stdole.dll
+E:\U&I_API\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\U&I_API\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.xml
+E:\U&I_API\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.xml
+E:\U&I_API\BRNET_UandIAPI\bin\Newtonsoft.Json.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.Net.Http.Formatting.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.Helpers.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.Http.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.Http.WebHost.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.Razor.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.WebPages.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.xml
+E:\U&I_API\BRNET_UandIAPI\bin\System.Web.WebPages.Razor.xml
+E:\U&I_API\BRNET_UandIAPI\obj\Release\OmniApi.csproj.AssemblyReference.cache
+E:\U&I_API\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CoreCompileInputs.cache
+E:\U&I_API\BRNET_UandIAPI\obj\Release\OmniApi.dll
+E:\U&I_API\BRNET_UandIAPI\obj\Release\OmniApi.pdb
+E:\U&I_API\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CopyComplete
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.dll.config
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.pdb
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.exe
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.exe.config
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.rsp
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csi.exe
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csi.rsp
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.AppContext.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.exe
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.exe.config
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.rsp
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Newtonsoft.Json.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Swashbuckle.Core.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Net.Http.Formatting.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Helpers.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.WebHost.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Razor.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Razor.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\WebActivatorEx.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\stdole.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\Newtonsoft.Json.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Net.Http.Formatting.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Helpers.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.WebHost.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Razor.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Razor.xml
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.AssemblyReference.cache
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CoreCompileInputs.cache
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CopyComplete
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.dll
+D:\CS PROJECTS\CS PROJECTS\mupeci\MupeciAPI\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.pdb
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.dll.config
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.pdb
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.exe
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.exe.config
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.rsp
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csi.exe
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csi.rsp
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.AppContext.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.exe
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.exe.config
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.rsp
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Newtonsoft.Json.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Swashbuckle.Core.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Net.Http.Formatting.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Helpers.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.WebHost.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Razor.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Razor.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\WebActivatorEx.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\stdole.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\Newtonsoft.Json.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Net.Http.Formatting.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Helpers.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.WebHost.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Razor.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Razor.xml
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.AssemblyReference.cache
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CoreCompileInputs.cache
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CopyComplete
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.dll
+D:\CS PROJECTS\CS PROJECTS\Fincorp Rest API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.pdb
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.dll.config
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\OmniApi.pdb
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.exe
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.exe.config
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csc.rsp
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csi.exe
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\csi.rsp
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.AppContext.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.exe
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.exe.config
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\vbc.rsp
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Newtonsoft.Json.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Swashbuckle.Core.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Helpers.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Razor.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\WebActivatorEx.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\stdole.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\Newtonsoft.Json.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Helpers.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.Razor.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.AssemblyReference.cache
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.csproj.CopyComplete
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.dll
+C:\Users\emmanuel.kiptoo\Documents\USSD API\MupeciAPI\BRNET_UandIAPI\obj\Release\OmniApi.pdb
